@@ -13,4 +13,6 @@
 	}
 	media=(float)soma/(float)x;
 printf("A media e?: %2.f\n",media);	
+//Exercicio 5, calcular a média
+
 }
